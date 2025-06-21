@@ -2,9 +2,7 @@
 
 **'Analista de teste/QA JR e desenvolvedor front-end JR'**
 
-Me chamo Wendel Vinicius, tenho 22 anos e sou um profissional proativo e entusiasta da Garantia de Qualidade de Software, atualmente cursando o 8º período de Ciência da Computação. Possuo experiência como Estagiário de QA na WATI Consultoria, atuando na elaboração estratégica de casos de teste, detecção proativa de bugs e contribuição direta para a estabilidade e desempenho de sistemas digitais.
-Tenho conhecimento em Python e tecnologias Front-end (HTML, CSS, JavaScript), o que facilita a comunicação e colaboração com equipes de desenvolvimento. Destaco-me pela organização, raciocínio lógico e constante busca por aprendizado, aplicando metodologias de teste que asseguram a entrega de soluções de alta qualidade.
-Estou em busca de uma oportunidade para aplicar e expandir minhas habilidades, contribuindo para o sucesso de produtos digitais e a excelência de times de desenvolvimento. Meu Linkedin: "[Wendel Vinicius](https://www.linkedin.com/in/wendel-vinicius-975528232/)"
+Me chamo Wendel Vinicius, tenho 22 anos. Profissional proativo e apaixonado por Garantia de Qualidade de Software, cursando o 8º período de Ciência da Computação e com foco em assegurar a excelência e robustez de produtos digitais. Com experiência como Estagiário de QA na WATI Consultoria, onde atuei na elaboração estratégica de casos de teste e na identificação proativa de bugs, contribuindo diretamente para a elevação da qualidade e estabilidade de sistemas digitais. Possuo habilidades em Python e em Front-end (HTML, CSS, JavaScript), o que me permite compreender e colaborar efetivamente com equipes de desenvolvimento. Minhas habilidades em organização, raciocínio lógico e aprendizado contínuo me permitem aplicar e aprimorar metodologias de teste para entregar soluções de alta qualidade. Busco uma oportunidade para aplicar minhas competências e contribuir para o sucesso de equipes de desenvolvimento. Meu Linkedin: "[Wendel Vinicius](https://www.linkedin.com/in/wendel-vinicius-975528232/)"
 
 ---
 ### 🤖 Linguagens e Tecnologias
@@ -42,20 +40,21 @@ Estou em busca de uma oportunidade para aplicar e expandir minhas habilidades, c
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
 <br/>
 <br/>
 
